@@ -54,6 +54,10 @@ public class calculadoraAvanzada {
                     System.out.println("su resultado es "+resultado);
 
                     break;
+                case 5:
+                    System.out.println("......");
+
+                    break;
 
                 default:
                     System.out.println("opcion no valida");
